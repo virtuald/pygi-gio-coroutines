@@ -1,0 +1,13 @@
+*.pyc
+__pycache__
+*.egg-info
+dist
+
+MANIFEST
+
+.project
+.pydevproject
+
+.coverage
+
+random.data
